@@ -1,0 +1,47 @@
+[
+  {
+    "id": "1770020000001",
+    "clientName": "John Doe",
+    "companyName": "Tech Solutions Inc.",
+    "reviewText": "Excellent service and timely delivery. Highly recommended!",
+    "rating": 5,
+    "status": "new",
+    "createdAt": "2026-02-02T09:00:00.000Z"
+  },
+  {
+    "id": "1770020000002",
+    "clientName": "Sarah Smith",
+    "companyName": "Creative Design Co.",
+    "reviewText": "Great attention to detail as always.",
+    "rating": 4,
+    "status": "new",
+    "createdAt": "2026-02-01T14:30:00.000Z"
+  },
+  {
+    "id": "1770020000003",
+    "clientName": "Michael Brown",
+    "companyName": "BuildIt Construction",
+    "reviewText": "Solid work, but slightly delayed response initially.",
+    "rating": 3,
+    "status": "read",
+    "createdAt": "2026-01-30T10:15:00.000Z"
+  },
+  {
+    "id": "1770020000004",
+    "clientName": "Emily Davis",
+    "companyName": "SoftWorks",
+    "reviewText": "Amazing experience working with the team.",
+    "rating": 5,
+    "status": "read",
+    "createdAt": "2026-01-28T16:45:00.000Z"
+  },
+  {
+    "id": "1770020000005",
+    "clientName": "David Wilson",
+    "companyName": "Logistics Hub",
+    "reviewText": "Good project management and execution.",
+    "rating": 4,
+    "status": "read",
+    "createdAt": "2026-01-25T11:20:00.000Z"
+  }
+]

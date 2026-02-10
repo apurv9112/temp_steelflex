@@ -1,0 +1,52 @@
+[
+    {
+        "id": "3001",
+        "name": "Frank Miller",
+        "email": "frank@example.com",
+        "phone": "555-0201",
+        "appliedRole": "Senior Backend Developer",
+        "cvFile": "uploads/cvs/frank_cv.pdf",
+        "status": "new",
+        "createdAt": "2026-02-02T10:00:00.000Z"
+    },
+    {
+        "id": "3002",
+        "name": "Grace Lee",
+        "email": "grace@example.com",
+        "phone": "555-0202",
+        "appliedRole": "UI/UX Designer",
+        "cvFile": "uploads/cvs/grace_cv.pdf",
+        "status": "new",
+        "createdAt": "2026-02-01T16:00:00.000Z"
+    },
+    {
+        "id": "3003",
+        "name": "Henry Wilson",
+        "email": "henry@example.com",
+        "phone": "555-0203",
+        "appliedRole": "Project Manager",
+        "cvFile": "uploads/cvs/henry_cv.pdf",
+        "status": "new",
+        "createdAt": "2026-02-01T11:00:00.000Z"
+    },
+    {
+        "id": "3004",
+        "name": "Ivy Chen",
+        "email": "ivy@example.com",
+        "phone": "555-0204",
+        "appliedRole": "Frontend Developer",
+        "cvFile": "uploads/cvs/ivy_cv.pdf",
+        "status": "read",
+        "createdAt": "2026-01-29T13:45:00.000Z"
+    },
+    {
+        "id": "3005",
+        "name": "Jack Thompson",
+        "email": "jack@example.com",
+        "phone": "555-0205",
+        "appliedRole": "DevOps Engineer",
+        "cvFile": "uploads/cvs/jack_cv.pdf",
+        "status": "read",
+        "createdAt": "2026-01-28T09:15:00.000Z"
+    }
+]

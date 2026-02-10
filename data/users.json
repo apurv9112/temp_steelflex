@@ -1,0 +1,18 @@
+[
+  {
+    "id": "superadmin_1",
+    "name": "Super Admin",
+    "email": "admin@hostinger.com",
+    "userId": "admin",
+    "password": "$2b$10$E3bFeISLeoi3gRAgnM8M4O12JHdmy/iLAqIZArsQ8GYZuzkaPQylK",
+    "role": "SUPER_ADMIN"
+  },
+  {
+    "id": "1769851239531",
+    "name": "Rahul Patel",
+    "email": "Rahul@xyz.com",
+    "userId": "Rahul",
+    "password": "$2b$10$U/IqhN1rM2rjmit2JBGiIeYgXuVjeT25DRzO0ZbvkAIWk7Iax4xK.",
+    "role": "ADMIN"
+  }
+]

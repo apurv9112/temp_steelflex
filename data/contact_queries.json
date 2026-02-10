@@ -1,0 +1,47 @@
+[
+    {
+        "id": "2001",
+        "name": "Alice Johnson",
+        "email": "alice@example.com",
+        "phone": "555-0101",
+        "message": "I would like to inquire about your enterprise pricing plans.",
+        "status": "new",
+        "createdAt": "2026-02-02T08:00:00.000Z"
+    },
+    {
+        "id": "2002",
+        "name": "Bob Williams",
+        "email": "bob@example.com",
+        "phone": "555-0102",
+        "message": "Do you offer custom software development services?",
+        "status": "new",
+        "createdAt": "2026-02-01T15:00:00.000Z"
+    },
+    {
+        "id": "2003",
+        "name": "Charlie Brown",
+        "email": "charlie@example.com",
+        "phone": "555-0103",
+        "message": "Checking availability for a consultation meeting.",
+        "status": "new",
+        "createdAt": "2026-02-01T12:00:00.000Z"
+    },
+    {
+        "id": "2004",
+        "name": "Diana Prince",
+        "email": "diana@example.com",
+        "phone": "555-0104",
+        "message": "Thank you for the quick response yesterday.",
+        "status": "read",
+        "createdAt": "2026-01-31T09:30:00.000Z"
+    },
+    {
+        "id": "2005",
+        "name": "Evan Wright",
+        "email": "evan@example.com",
+        "phone": "555-0105",
+        "message": "Reporting a minor bug on the contact form.",
+        "status": "read",
+        "createdAt": "2026-01-30T14:20:00.000Z"
+    }
+]
